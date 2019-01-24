@@ -11,7 +11,3 @@
 - Trifecta Wrangler
 - WEKA
 - Yet another tool! 
-
-# Features
-- time series
-- missed this one lol
