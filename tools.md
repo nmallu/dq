@@ -4,3 +4,4 @@
 - Orange
 - KNIME
 - Rapidminer
+- WEKA
