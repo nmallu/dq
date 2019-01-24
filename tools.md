@@ -3,3 +3,4 @@
 - IBM Statistics 
 - Orange
 - KNIME
+- Rapidminer
