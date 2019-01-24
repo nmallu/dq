@@ -6,5 +6,5 @@
 - Rapidminer
 
 # New tools:
--Tableau Prep
+- Tableau Prep
 - Trifecta Wrangler
