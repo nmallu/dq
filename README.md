@@ -8,6 +8,6 @@
 - RapidMiner
 ## Section 3: Use cases
 - Customer segmentation
-- customer churn
+
 
 
