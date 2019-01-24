@@ -3,3 +3,7 @@
 - IBM Statistics 
 - Orange
 - KNIME
+- Rapidminer
+
+# New tools:
+-Tableau Prep
