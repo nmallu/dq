@@ -7,3 +7,4 @@
 
 # New tools:
 -Tableau Prep
+- Trifecta Wrangler
